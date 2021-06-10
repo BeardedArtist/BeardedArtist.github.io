@@ -1,4 +1,63 @@
-## Welcome to GitHub Pages
+## Hi, I'm Zane Brown!
+________________________________________________________________________
+
+
+I'm a aspiring developer creating projects in web development, Android Studio, and Unity. 
+
+
+Get in touch! --> Zanebrown95@gmail.com
+
+# Background
+```markdown
+I'm currently an English Teacher in Fukuoka, Japan. 
+When I'm not working, I am finishing up my computer science degree at Southern New Hampshire University. 
+I've learned multiple programming languages and have created several different projects.
+In my free time, I am creating my own video game in Unity and create websites.
+
+When I have additional free time for myself, 
+- I like to play video games, 
+- travel abroad, 
+- skateboard and 
+- watch movies. 
+
+I've traveled most of southeast Asia and want to continue traveling east to as many countries as I can.
+```
+
+# Skills
+```markdown
+# languages
+- HTML
+- JavaScript
+- CSS
+- Bootstrap
+- C++
+- C#
+- Python
+- SQLite
+
+# Tools
+- Git & Github
+- MongoDB
+- Unity
+```
+
+# Projects
+```markdown
+# Inventory App
+[Inventory App] designed to help users manage and organize their belongings 
+or their business stock.
+
+# Software Reverse Engineering
+[Project] that showcases skills in software reverse engineering.
+Analyzing assembly code and hex code, a c++ program was re-created.
+
+# Data Mining
+[Data Mining Analysis] project that showcases skills in data analysis
+and data analysis tools. Using a database warehouse and customer data 
+from a fictitious company, a report was created to identify issues with 
+the company's online store.
+```
+
 
 You can use the [editor on GitHub](https://github.com/BeardedArtist/BeardedArtist.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
